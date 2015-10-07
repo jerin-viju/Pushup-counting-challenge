@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/jerin/Desktop/pushup_counter-master1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Push-up Counter</string>
+    <string name="hello">Hello World, PushupCounterActivity!</string>
+</resources>
